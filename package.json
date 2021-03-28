@@ -1,0 +1,52 @@
+{
+  "//1": "Her Şey Plasmic İçin <3 x FadeAway",
+  "name": "responsible-futuristic-pen",
+  "version": "0.0.1",
+  "description": "Al kullan işte :d",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "best-tools": "^1.0.8",
+    "canvas": "^2.6.1",
+    "chalk": "^4.1.0",
+    "chance": "^1.1.7",
+    "common-tags": "^1.8.0",
+    "dabi-images": "^2.7.5",
+    "discord.js": "^12.5.0",
+    "discord.js-commando": "^0.10.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "jimp": "^0.16.1",
+    "math-expression-evaluator": "^1.3.7",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "namemc": "^0.3.8",
+    "node-superfetch": "^0.1.10",
+    "novelcovid": "^3.0.0",
+    "nukleon": "0.0.2",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.2",
+    "quick.db-extended": "^7.1.11",
+    "quick.db-prototypes": "^1.0.0",
+    "quick.hook": "^1.5.1",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "useful-tools": "^0.2.6"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
